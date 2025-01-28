@@ -19,6 +19,7 @@
     "typescript": "^4.8.4"
   },
   "dependencies": {
-    "fp-ts": "^2.13.1"
+    "fp-ts": "^2.13.1",
+    "tennis-kata-ts": "file:"
   }
 }
